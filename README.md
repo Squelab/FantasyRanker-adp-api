@@ -1,1 +1,0 @@
-# FantasyRanker-adp-api
